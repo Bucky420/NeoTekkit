@@ -1,0 +1,32 @@
+{
+  "profiles": {
+    "codydbgt": {
+      "name": "codydbgt"
+    },
+    "Forge": {
+      "name": "Forge",
+      "lastVersionId": "1.7.10-Forge10.13.4.1517-1.7.10",
+      "launcherVisibilityOnGameClose": "keep the launcher open"
+    },
+    "1.6.4": {
+      "name": "1.6.4",
+      "lastVersionId": "1.6.4"
+    }
+  },
+  "selectedProfile": "Forge",
+  "clientToken": "85843e6f-835b-44c6-b224-0e4060f6596b",
+  "authenticationDatabase": {
+    "7e81e12bb8fd47a3a3440ed167ca6d16": {
+      "displayName": "codydbgt",
+      "accessToken": "59026499612546ef9d4648e37ce8145b",
+      "userid": "673bf5b1b32a4980be005e31f16f548e",
+      "uuid": "7e81e12b-b8fd-47a3-a344-0ed167ca6d16",
+      "username": "codydbgt@gmail.com"
+    }
+  },
+  "selectedUser": "7e81e12bb8fd47a3a3440ed167ca6d16",
+  "launcherVersion": {
+    "name": "1.6.48",
+    "format": 17
+  }
+}
